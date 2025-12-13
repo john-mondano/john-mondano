@@ -8,7 +8,7 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:john.mondano@bayer.com)
 [![Bayer](https://img.shields.io/badge/Bayer-10857F?style=for-the-badge&logo=bayer&logoColor=white)](https://www.bayer.com)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=25%2B+Years+Building+Technology+Teams;VP%2C+IT+Consumer+Health+%40+Bayer;Enterprise+Architect+%7C+AI+Builder;Wharton+CTO+Program;Technology+is+only+as+good+as+the+people+behind+it" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=25%2B+Years+Building+Technology+and+Teams;VP%2C+IT+Consumer+Health+%40+Bayer;Enterprise+Architect+%7C+AI+Builder;Wharton+CTO+Program;Technology+is+only+as+good+as+the+people+behind+it" alt="Typing SVG" />
 
 </div>
 
@@ -90,7 +90,7 @@ I've spent 25+ years climbing the tech ladder the hard way — **Level 1 Helpdes
 2024-Present  VP, IT Consumer Health Product Experience Platform Lead @ Bayer
               └── Leading global platform teams, AI strategy, digital transformation
 
-Previous      VP-level roles @ Stryker, Senior positions @ Hertz, UPS
+Previous      Sr. Manager-level roles @ Stryker, Senior positions @ Hertz, UPS
               └── Enterprise architecture, e-commerce, global team leadership
 
 Currently     Wharton CTO Program
